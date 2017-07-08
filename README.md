@@ -4,45 +4,53 @@ Manager+ All For One File Manager
 -------------
 <i class="icon-folder-open"></i>Manager+ All-in-One File Manager (File Explorer) Ram boster is an all-in-one file management tools <i class="icon-hdd"></i>
 -------------
-![Manager+](https://lh3.googleusercontent.com/swyCU6hrjuzd9zl-1upsScK4HIam2Z_gbr4dAfxP13o_FvjsZJ6YalDGo2olHVmGH_4=rw)
+![Manager+](https://lh3.googleusercontent.com/0cyDkSpuAlDdu7hyGyJydd-nJFFeqfzNIHLqsDWaHXSmOdSzbrMWzY-70qHRwpySdJ4=h900-rw)
 
 Sederhana,File Manager🗂️★Bost Ram★Junk Cleaner★Backup App: manajemen All For One Ini sepenuhnya dirancang dengan pedoman Material oleh Google. Mendukung semua versi Android dari Jellybean, Kitkat, Marshmallow untuk Nougat.
-----------------------------------------------------
-Fitur Unggulan:
-----------------------------------------------------
-★√Backup App user dan sytem proses backup cepat tampa memerlukan akar atau root phone
-★√Junk Cleaner Hapus file sampah
-★√Storage Analyzer & Disk Usage
-★√penuh Menampilkan File Manager (File Explorer) Ini adalah File Manager yang menyediakan semua fitur manajemen file seperti cut, copy, menghapus, mengubah nama, kompres zip, ekstrak. Anda dapat memeriksa rincian file berkas, pencarian terintegrasi penuh dalam sistem file. file baru dan folder baru dapat dibuat dalam satu detik.
-★√Pintar Perpustakaan File Explorer (File Manager) Kelompokkan semua file ke dalam Download dari internet, Bluetooth dari perangkat dekatnya, Gambar, Gambar, Kamera Foto, Video, Film, Audio, Musik, Dokumen (pdf, xls, ppt dll), Arsip (zip , rar dll) dan APK.
-★√ External Storage File Manager (File Explorer) Akses semua file dan folder dari berbagai jenis penyimpanan seperti EMMC, MMC mobil, SD Card, internal penyimpanan, penyimpanan eksternal, Telepon Memory, USB Storage, Flash Drive, Pen Drives, USB OTG.
-★ √Aman super File Manager (File Explorer) adalah 100% aman dan aman. Memberikan keamanan dan berhenti seseorang mengakses file pribadi Anda dengan menetapkan password.
-★√ Akar File Manager (File Explorer) untuk pengguna tingkat lanjut untuk mengeksplorasi, mengedit, copy, paste dan menghapus file di partisi root penyimpanan ponsel untuk tujuan pembangunan. Jelajahi folder root system seperti data, tembolok. telepon Anda perlu berakar untuk menggunakan fitur ini.
-★√App Manager dan Process Manager memori Gratis dengan membunuh tugas dan mempercepat ponsel Anda langsung. Cepat dan mudah uninstall beberapa aplikasi yang tidak diinginkan dan membebaskan ruang penyimpanan ponsel yang sangat berharga. App Manager membantu Anda menyimpan aplikasi favorit Anda ke memori dan menginstal mereka kembali lagi bila diperlukan.
-★ √Jaringan File Manager transfer file dengan FTP Server dari ponsel ke PC. Yang harus Anda lakukan adalah membuka alamat IP di browser dan semua file Anda di telepon yang mudah diakses. Anda juga dapat berbagi file dari telepon menggunakan bluetooth, wifi langsung aplikasi jejaring sosial lainnya dll Anda juga dapat menelusuri koneksi FTP / FTPS sekarang.
-★ √Dokumen Editor Anda dapat dengan mudah mengedit file di mana saja. Dukungan untuk setiap jenis file teks seperti HTML, XHTML, TXT dll Anda juga dapat mengedit file saat ponsel berakar. Hal ini sangat sederhana dan berguna.
-----------------------------------------------------
-Fitur lain:
-----------------------------------------------------
-★ Folder di lumbung
-★ Android TV!
-★ Terkecil File Manager di toko bermain dengan ukuran 3MB !!
-★ Salah satu file manager paling langka untuk mendukung aksesibilitas untuk orang cacat
-★ Lengkap App dirancang dari awal dengan menggunakan prinsip-prinsip desain material
-★ tema Sepenuhnya disesuaikan warna untuk aplikasi dan tema jenis untuk memilih dari. tema gelap didukung sepenuhnya. Pilih warna yang cocok untuk anda dari berbagai macam warna
-★ Bertindak sebagai File Picker Standalone dari aplikasi lain seperti melampirkan file dokumen dari gmail atau inbox, meng-upload video ke youtube, mengirim gambar ke teman-teman di whatsapp dll
-★ Memiliki dukungan thumbnail kualitas tinggi dalam daftar / gridview untuk semua jenis file seperti gambar, video, seni album untuk file musik dan aplikasi
-----------------------------------------------------
-Material Open Scure
-----------------------------------------------------
-Developer By
-Silahkan beri saran di id.appstudioplus@gmail.com
-> Developed By Kiswan.asis.sm ™ AppStudio+
-> community https://plus.google.com/u/1/communities/105128200243926318564
+
+Top Features <i class="icon-refresh">
+============
+★ **Backup App user and system backup process quickly without needing root or root phone
+★ **New √Junk Cleaner Delete junk files 
+★ **New √Storage Analyzer & Disk Usage.
+
+★ **Full Featured File Manager (File Explorer)** It is a Super File Manager which provides all features of file management including cut, copy, delete, rename, compress, extract. You can check the file file details, full integrated search within the file system. New file and New folders can be created in a second.
+
+★ **Smart Library File Explorer (File Manager)** Categorize all files into Downloads from internet, Bluetooth from nearby devices, Images, Pictures, Camera Photos, Videos, Movies, Audio , Music, Documents (pdf, xls, ppt etc), Archives (zip, rar etc) and APK. Easily navigate the library with a single tap. You can also bookmark all your favourite folders so you can have quick access at any point of time
+
+★ **Storage File Manager (File Explorer)** Access all files and folder from different types of storages like EMMC, MMC cars, SD Cards, Internal Storage, External Storage , Phone Memory, USB Storage, Flash Drive, Pen Drives, USB OTG (Nexus and Non nexus) with support for FAT file system
+
+★ **Root File Manager (File Explorer)** for advanced users to explore, edit, copy, paste and delete files in the root partition of phone storage for development purposes. Explore root folders of the system like data, cache. You phone needs to be rooted to use this feature
+
+★ **App Manager and Process Manager** Free memory by killing tasks and speed up your phone instantly. Quickly and easily uninstall multiple unwanted applications and free up phone storage space which is very valuable. App Manager helps you save your favorite apps on to memory and install them back again when needed
+
+★ **Network Manager** Transfer files with FTP Server from phone to PC. All you have to do is open the IP address in browser and all your files on the phone are easily accessible. You can also share files from your phone using bluetooth, wifi direct other social networking apps etc
+
+★ **Document Editor** you can easily edit files on the go. Support for every type of text files such as HTML, XHTML, TXT etc. You can also edit files when the phone is rooted. It is very simple and handy.
+
+Other Features
+==============
+* One and only file manager to support RTL languages like Arabic, Hebrew etc natively
+* The only app to Show Folder sizes across storages
+* First File Manager for Android TV!
+* Smallest File Manager on play store with size of 3MB only!!
+* One of the rarest file manager to support accessibility for disabled people
+* Completely Open source project on github
+* Complete App is designed from scratch using material design principles
+* Fully customizable themes colors for the app and theme types to choose from. Dark theme is fully supported. Choose the color that suits you from a wide range of material colours
+* Acts as a Standalone File Picker from other applications such as attaching document files from gmail
+* Has high quality thumbnail support in list / gridview for all types of file like images, videos, album art for music files and applications
+
+Feedback is greatly appreciated. Any issues please report through mail only to id.appstudioplus@gmail.com <i class="icon-refresh"></i>
+
+> **Tip:** Check out the [<i class="icon-upload"></i> Publish a document](#publish-a-document) section for a description of the different output formats.
+
 ----------
+
 AppStudio+
 -------------------
 Page play store](https://play.google.com/store/apps/dev?id=5587054004501768880)
+
 
 > **Note:**
 > - Developed By Kiswan.asis.sm TM AppStudio+
