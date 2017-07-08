@@ -10,8 +10,11 @@ Sederhana,File Manager🗂️★Bost Ram★Junk Cleaner★Backup App: manajemen 
 
 Top Features <i class="icon-refresh">
 ============
+
 ★ **Backup App user and system backup process quickly without needing root or root phone
-★ **New √Junk Cleaner Delete junk files 
+
+★ **New √Junk Cleaner Delete junk files
+
 ★ **New √Storage Analyzer & Disk Usage.
 
 ★ **Full Featured File Manager (File Explorer)** It is a Super File Manager which provides all features of file management including cut, copy, delete, rename, compress, extract. You can check the file file details, full integrated search within the file system. New file and New folders can be created in a second.
@@ -54,9 +57,10 @@ Page play store](https://play.google.com/store/apps/dev?id=5587054004501768880)
 
 > **Note:**
 > - Developed By Kiswan.asis.sm TM AppStudio+
-> - community](https://plus.google.com/u/1/communities/105128200243926318564) for discussions 
+> - community](https://plus.google.com/u/1/communities/105128200243926318564) for discussions
+
 > **License:**
-> -     Copyright 2014 - 2017 Wan
+> -Copyright 2014 - 2017 Wan
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
