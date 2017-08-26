@@ -4,19 +4,17 @@ Manager+ All For One File Manager
 -------------
 <i class="icon-folder-open"></i>Manager+ All-in-One File Manager (File Explorer) Ram boster is an all-in-one file management tools <i class="icon-hdd"></i>
 -------------
-![Manager+](https://lh3.googleusercontent.com/0cyDkSpuAlDdu7hyGyJydd-nJFFeqfzNIHLqsDWaHXSmOdSzbrMWzY-70qHRwpySdJ4=h900-rw)
+![Manager+](https://lh3.googleusercontent.com/K_S3TmbXGIojsuvl1MAKw7vqViNBF4bx0BwD91-ABvyhFKXAv9hd5-N-FK6_RZpyKYMP=h900-rw)
 
-Sederhana,File Manager🗂️★Bost Ram★Junk Cleaner★Backup App: manajemen All For One Ini sepenuhnya dirancang dengan pedoman Material oleh Google. Mendukung semua versi Android dari Jellybean, Kitkat, Marshmallow untuk Nougat.
-
-Top Features <i class="icon-refresh">
-============
-
-★ **Backup App user and system backup process quickly without needing root or root phone
-
-★ **New √Junk Cleaner Delete junk files
-
-★ **New √Storage Analyzer & Disk Usage.
-
+Manager + File🗂Usb OTG️ ★ BoostRam ★ CCleaner ★ Backup App: One For ALL management It fully supports all Android versions of Jellybean, Kitkat, Marshmallow for Nougat.
+-------------------------------------------------
+Featured Features and Functions:
+-------------------------------------------------
+★ √Backup App user and system backup process without tampa requires root or root phone
+★ √New CCleaner Clear the application cache and space
+★ √Storage Analyzer & Disk Usage sytem android
+★ √New battery info and server care for android battery
+★ √Edit or create a txt file and a Pdf file viewer.
 ★ **Full Featured File Manager (File Explorer)** It is a Super File Manager which provides all features of file management including cut, copy, delete, rename, compress, extract. You can check the file file details, full integrated search within the file system. New file and New folders can be created in a second.
 
 ★ **Smart Library File Explorer (File Manager)** Categorize all files into Downloads from internet, Bluetooth from nearby devices, Images, Pictures, Camera Photos, Videos, Movies, Audio , Music, Documents (pdf, xls, ppt etc), Archives (zip, rar etc) and APK. Easily navigate the library with a single tap. You can also bookmark all your favourite folders so you can have quick access at any point of time
