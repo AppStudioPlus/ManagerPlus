@@ -6,7 +6,7 @@ Manager+ All For One File Manager
 -------------
 ![Manager+](https://lh3.googleusercontent.com/8G--j3YC5b4bsLX5Kv3rFHZpisxFXeu9Kvx7y6ynSE_lQnhVUX-FFX0ojjr5I1FG2mo=w1193-h625-rw)
 
-Manager + File🗂Usb OTG️ ★ BoostRam ★ CCleaner ★ Backup App: One For ALL management It fully supports all Android versions of Jellybean, Kitkat, Marshmallow for Nougat
+Manager + File🗂Usb OTG️ ★ BoostRam ★ CCleaner ★ Backup App: One For ALL management It fully supports all Android versions of Jellybean, Kitkat, Marshmallow for 10
 -------------------------------------------------
 Featured Features and Functions:
 ==============
