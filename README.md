@@ -2,16 +2,16 @@ Manager+ All For One File Manager
 ===================
 [<img alt="Get it on Google Play" height="80" src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png">](https://play.google.com/store/apps/dev?id=5587054004501768880)
 -------------
-<i class="icon-folder-open"></i>Manager + File🗂Usb OTG️ ★ BoostRam ★ CCleaner ★ Backup App: One For ALL management It fully supports all Android versions of Jellybean, Kitkat, Marshmallow for Nougat<i class="icon-hdd"></i>
+<i class="icon-folder-open"></i>Manager + File🗂Usb OTG️ ★ BoostRam ★ Cleaner ★ Backup App: One For ALL management It fully supports all Android versions of Jellybean, Kitkat, Marshmallow for 10<i class="icon-hdd"></i>
 -------------
-![Manager+](https://lh3.googleusercontent.com/K_S3TmbXGIojsuvl1MAKw7vqViNBF4bx0BwD91-ABvyhFKXAv9hd5-N-FK6_RZpyKYMP=h900-rw)
+![Manager+](https://lh3.googleusercontent.com/8G--j3YC5b4bsLX5Kv3rFHZpisxFXeu9Kvx7y6ynSE_lQnhVUX-FFX0ojjr5I1FG2mo=w1193-h625-rw)
 
 Manager + File🗂Usb OTG️ ★ BoostRam ★ CCleaner ★ Backup App: One For ALL management It fully supports all Android versions of Jellybean, Kitkat, Marshmallow for Nougat
 -------------------------------------------------
 Featured Features and Functions:
 ==============
 ★ √Backup App user and system backup process without tampa requires root or root phone
-★ √New CCleaner Clear the application cache and space
+★ √Cleaner Clear the application cache and space
 ★ √Storage Analyzer & Disk Usage sytem android
 ★ √New battery info and server care for android battery
 ★ √Edit or create a txt file and a Pdf file viewer.
@@ -55,10 +55,10 @@ Page play store](https://play.google.com/store/apps/dev?id=5587054004501768880)
 
 > **Note:**
 > - Developed By Kiswan.asis.sm TM AppStudio+
-> - community](https://plus.google.com/u/1/communities/105128200243926318564) for discussions
+> - community Facebook](https://www.facebook.com/android.managerplus/) for discussions
 
 > **License:**
-> -Copyright 2014 - 2017 Wan
+> -Copyright 2017 - 2017 Kiswan as sm
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
