@@ -58,7 +58,7 @@ Page play store](https://play.google.com/store/apps/dev?id=5587054004501768880)
 > - community Facebook](https://www.facebook.com/android.managerplus/) for discussions
 
 > **License:**
-> -Copyright 2017 - 2017 Kiswan as sm
+> -Copyright 2017 - 2017 Kiswan asis s.m
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
