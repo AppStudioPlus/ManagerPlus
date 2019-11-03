@@ -5,15 +5,12 @@ Manager+ All For One File Manager
 <i class="icon-folder-open"></i>Manager + File🗂Usb OTG️ ★ BoostRam ★ Cleaner ★ Backup App: One For ALL management It fully supports all Android versions of Jellybean, Kitkat, Marshmallow for 10<i class="icon-hdd"></i>
 -------------
 ![Manager+](https://lh3.googleusercontent.com/8G--j3YC5b4bsLX5Kv3rFHZpisxFXeu9Kvx7y6ynSE_lQnhVUX-FFX0ojjr5I1FG2mo=w1193-h625-rw)
-
-Manager + File🗂Usb OTG️ ★ BoostRam ★ CCleaner ★ Backup App: One For ALL management It fully supports all Android versions of Jellybean, Kitkat, Marshmallow for 10
 -------------------------------------------------
 Featured Features and Functions:
 ==============
 ★ √Backup App user and system backup process without tampa requires root or root phone
-★ √Cleaner Clear the application cache and space
+★ √Cleaner the application cache,log,tmp,apk and space
 ★ √Storage Analyzer & Disk Usage sytem android
-★ √New battery info and server care for android battery
 ★ √Edit or create a txt file and a Pdf file viewer.
 ★ **Full Featured File Manager (File Explorer)** It is a Super File Manager which provides all features of file management including cut, copy, delete, rename, compress, extract. You can check the file file details, full integrated search within the file system. New file and New folders can be created in a second.
 
@@ -55,7 +52,7 @@ Page play store](https://play.google.com/store/apps/dev?id=5587054004501768880)
 
 > **Note:**
 > - Developed By Kiswan.asis.sm TM AppStudio+
-> - community Facebook](https://www.facebook.com/android.managerplus/) for discussions
+> - Facebook](https://www.facebook.com/android.managerplus/) for discussions
 
 > **License:**
 > -Copyright 2017 - 2019 Kiswan asis s.m
