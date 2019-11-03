@@ -8,10 +8,11 @@ Manager+ All For One File Manager
 -------------------------------------------------
 Featured Features and Functions:
 ==============
-★ √Backup App user and system backup process without tampa requires root or root phone
-★ √Cleaner the application cache,log,tmp,apk and space
-★ √Storage Analyzer & Disk Usage sytem android
-★ √Edit or create a txt file and a Pdf file viewer.
+★ **Backup App user and system backup process without tampa requires root or root phone
+★ **Cleaner the application cache,log,tmp,apk and space
+★ **Storage Analyzer & Disk Usage sytem android
+★ **Edit or create a txt file and a Pdf file viewer
+
 ★ **Full Featured File Manager (File Explorer)** It is a Super File Manager which provides all features of file management including cut, copy, delete, rename, compress, extract. You can check the file file details, full integrated search within the file system. New file and New folders can be created in a second.
 
 ★ **Smart Library File Explorer (File Manager)** Categorize all files into Downloads from internet, Bluetooth from nearby devices, Images, Pictures, Camera Photos, Videos, Movies, Audio , Music, Documents (pdf, xls, ppt etc), Archives (zip, rar etc) and APK. Easily navigate the library with a single tap. You can also bookmark all your favourite folders so you can have quick access at any point of time
